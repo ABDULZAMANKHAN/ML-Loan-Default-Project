@@ -1,5 +1,11 @@
 # ML-Loan-Default-Project
 
+●	Developed ML models (Logistic Regression, Random Forest Classifier, Decision Tree Classifier) with high accuracies (0.87, 1.0, 0.99) to predict loan default. 
+●	Utilized Python libraries: Pandas, Matplotlib, Seaborn, Scikit-learn for data preprocessing, missing values, feature engineering, and model building. 
+●	Employed visualizations (histograms, boxplots, barplots, pairplots, correlation heatmaps) to analyze data distribution, identify key variables, and understand their impact on the target variable.
+●	Addressed outliers using boxplots to ensure data integrity and enhance model performance. 
+●	Utilized PyCaret library to streamline model development, achieving high accuracies (Gradient Boosting Classifier: 0.9906, Random Forest Classifier: 0.9903), comparing with Logistic Regression (0.7616) and SVM with Linear Kernel (0.5552).
+
 In this project, I performed Exploratory Data Analysis (EDA) to gain insights into our dataset before building a predictive model.
 Here are the key steps I followed during EDA to extract valuable information from the data:
 
